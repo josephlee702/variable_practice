@@ -13,3 +13,11 @@ height_in_feet = 5.7
 laundry_done = true
 registered_to_vote = true
 drive_drunk = false
+
+address = "123 grove st"
+address
+address = "789 Walnut st"
+address 
+
+puts address
+puts age+weight
